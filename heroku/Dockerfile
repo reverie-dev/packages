@@ -1,2 +1,2 @@
-FROM ghcr.io/coder/coder:v0.22.2
+FROM ghcr.io/coder/coder:v0.26.0
 ENTRYPOINT []
